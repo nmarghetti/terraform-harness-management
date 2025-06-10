@@ -4,6 +4,8 @@
 
 Published to Terraform registry following <https://developer.hashicorp.com/terraform/registry/modules/publish>.
 
+Available at [harness-management](https://registry.terraform.io/modules/nmarghetti/management/harness/latest).
+
 ## Requirements
 
 | Name                                                                     | Version  |
